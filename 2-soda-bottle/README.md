@@ -14,6 +14,11 @@ This project showcases several fundamental and intermediate modeling techniques 
 - **Shell**: Hollowing out the bottle to create a realistic thickness.
 - **Fillets**: Adding smooth transitions and rounded edges to enhance realism and printability.
 
+## Reference Images
+
+<img src="soda-bottle.png" width="300" />
+
+
 ## Files in this Project
 - [`day-2-glass-soda-bottle.stl`](day-2-glass-soda-bottle.stl): The 3D printable model.
 - [`soda-bottle.png`](soda-bottle.png): Reference image used during the modeling process.
