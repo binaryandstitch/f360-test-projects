@@ -16,8 +16,8 @@ The modeling workflow involved several key Fusion 360 techniques:
 ## Reference Images
 
 <p align="center">
-  <img src="paperclip-f360.png" width="60%" alt="Fusion 360 Model" />
-  <img src="paperclip-reference-dimensions.png" width="30%" alt="Reference Dimensions" />
+  <img src="paperclip-f360.png" width="60%" height="200px" alt="Fusion 360 Model" />
+  <img src="paperclip-reference-dimensions.png" width="30%" height="200px" alt="Reference Dimensions" />
 </p>
 
 ## Files in this folder
