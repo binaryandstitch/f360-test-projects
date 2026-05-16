@@ -11,7 +11,8 @@ The part was printed with slim tree supports. Those supports left residue on one
 ## Files
 - [crank-pulley-centering-ring.stl](crank-pulley-centering-ring.stl) - The final 3D printable model.
 - [centering-ring-f360.png](centering-ring-f360.png) - Screenshot of the model in Fusion 360.
-- [centering-ring-3d-printed-with-supports.mp4](centering-ring-3d-printed-with-supports.mp4) - Timelapse of the 3D printing process.
+- [centering-ring-3d-printed-with-supports.gif](centering-ring-3d-printed-with-supports.gif) - Animated timelapse of the 3D printing process.
+- [accessory-belt-on-pulley.gif](accessory-belt-on-pulley.gif) - Animated view of the accessory belt on the pulley.
 - [3d-printed-centering-ring-fit-in-pulley.png](3d-printed-centering-ring-fit-in-pulley.png) - Verification of the ring fitting into the pulley.
 - [digital-caliper.png](digital-caliper.png) - Digital caliper used for precision measurements.
 - [feeler-gauge.png](feeler-gauge.png) - Feeler gauge used for measuring depth.
@@ -20,19 +21,20 @@ The part was printed with slim tree supports. Those supports left residue on one
 
 ## Gallery
 
-### Timelapse
-<video src="centering-ring-3d-printed-with-supports.mp4" height="200" alt="video of centering ring being printed" controls></video>
+### Timelapse 
+<p align="left">
+  <img src="accessory-belt-on-pulley.gif" height="200" alt="Accessory belt on pulley timelapse">
+  <img src="centering-ring-3d-printed-with-supports.gif" height="200" alt="3D print timelapse">
+</p>
 
 ### Model & Fitment
 <img src="centering-ring-f360.png" height="200" alt="Model">
 <img src="3d-printed-centering-ring-fit-in-pulley.png" height="200" alt="model fitment on pulley">
-
-### Measurements
 <img src="balancer-depth-measured-with-feeler-gauge.png" height="200" alt="Balancer being measured">
 
 ### Tools
 
-<p align="center">
+<p align="left">
   <figure style="display:inline-block; margin:0 1rem; text-align:center;">
     <img src="digital-caliper.png" height="200" alt="Caliper">
     <figcaption>Digital Caliper</figcaption>
