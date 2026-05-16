@@ -9,12 +9,10 @@ The part was printed with slim tree supports. Those supports left residue on one
 
 ## Gallery
 
-### Timelapse
 | Accessory Belt on Pulley | 3D Print Timelapse |
 |---|---|
 | <img src="accessory-belt-on-pulley.gif" height="200" alt="Accessory belt on pulley timelapse"> | <img src="centering-ring-3d-printed-with-supports.gif" height="200" alt="3D print timelapse"> |
 
-### Model & Fitment
 | Model | Printed Ring Fitment | Balancer Measured |
 |---|---|---|
 | <img src="centering-ring-f360.png" height="200" alt="Model"> | <img src="3d-printed-centering-ring-fit-in-pulley.png" height="200" alt="model fitment on pulley"> | <img src="balancer-depth-measured-with-feeler-gauge.png" height="200" alt="Balancer being measured"> |
