@@ -3,7 +3,7 @@
 ## Project Description
 This project documents the design and 3D printing of a centering ring for a crank shaft balancer and aftermarket pulley. The car owner installed a smaller-than-original performance pulley and balancer, then found the new assembly would not fit together with the centering ring.
 
-A dial indicator showed a 0.05" wobble before the centering ring was installed. After installing the printed ring, the wobble was reduced by 0.04" while turning the engine, demonstrating that the ring improved alignment. The engine was tested with the printed centering ring. There is still a slight wobble, however it is greadtly reduced from before.
+Use of a dial indicator displayed a 0.05" wobble before the centering ring was installed. After installing the printed ring, the wobble was reduced by 0.04" while turning the engine, demonstrating that the ring improved alignment. There is still a slight wobble, however it is greadtly reduced from before.
 
 The part was printed with slim tree supports. Those supports left residue on one side of the outer ring, so the face is no longer perfectly flush. Additional support, cleanup experiments, and testing fillet angles are planned.
 
