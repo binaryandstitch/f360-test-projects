@@ -1,0 +1,70 @@
+4 - complex glass bottle
+
+part design
+sketch
+xy origin plane to start at bottom of bottle
+'r' to activate rectangle
+select origin r for center r
+keeps sym center to x axis for mirroring 
+SKETCH FILLETS for rounding sketch before its solid
+select each side for fillet, it will snap 
+sketch fillet set to 7 mill for radius, this snaps for each corner in this sketch highlighted
+choose model fillets over sketch fillets as they remove contraints
+however, they are used for lofts and sweeps. 
+finish sketch
+
+sketches require an origin plane, planar surface or contruction plane
+this is so sketches do not float in space
+
+solid > construction > offset plane require sketch or planar
+click offset sketch and click r so as to sketch on it
+choose to offset from origin as it won't as often change
+
+sketch circles for bottle
+hide sketches so they are not obstructing current sketch
+use home button to confirm you are on the correct plane
+click finish sketch each time you are done so that they are displayed seperately in history
+
+click each sketch and a displayed blue color confirms sketches are closed
+
+loft tool for shapes lacking symmetry
+click each sketch and loft will connect each with a new profile
+design is bulbous
+change connected to direction for each displayed profile
+change shape with either guide rails or centerline
+guide rails use 2d or 3d sketches that influence loft shape between profiles.
+Catch, they have to touch every profile in the loft.
+Centerline, only one centerline can be used at any given time
+cancel loft
+
+sketching rails instead
+loft guiderail much touch all four profiles
+sketch > create > project/include > intersect
+hovering over edges creates points on active sketch plane exactly where ixisting sketch passes through it
+confirm all 4 profiles are selected in interect modal
+prjection link ensures they scale properly if scale is updated
+
+LINE SKETCH
+clear line command
+COINCIDENT CONSTRAINT, forces line to remain connected to each sketch point from the intersect command
+start at bottom of sketch and create a fitpoint sketch
+FITPOINT SKETCH > enter/checkmark 
+left side complete
+SKETCH MIRROR > select sketch from completed side > select z axis from origin to be mirrored
+
+SOLID LOFT > view from home position > choose sketches from planes as profiles in order
+be careful to choose the plane not a point on the sketch
+GUIDERAILS > plus sign in box > chain selection checked to include all touching sketched objects > select guide rails
+errors ? verify spline and line connect smoothly to form a continuous path
+
+SOLID FILLET > done befor hollowing out bottle > 5 mm
+
+sketch circle > top of bottle from origin > type C > type E to extrude new circle profile > join body to existing so shell can trace single shape
+
+SOLID SHELL > top of bottle > enter thickness > enter
+error ? edit guiderail sketch and adjust the spline curvature, happens with sharp curves
+
+SOLID FILLET > EDGE OF BOTTLE > ENTER
+SOLID THREAD > choose plane > modeled option checked otherwise it will not 3d print and is just an image
+
+
